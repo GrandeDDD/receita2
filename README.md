@@ -1,3 +1,3 @@
 # receita2
 
-A new Flutter project.
+Referente ao exercício passado pelo professor Fabrício
